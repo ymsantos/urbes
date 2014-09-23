@@ -33,7 +33,7 @@ namespace Urbes
                 AllSchedules();
             }
         }
-
+        //ha
         private async void AllSchedules()
         {
             List<Urbes.MainPage.HORARIO> NextScheduleBairro;
